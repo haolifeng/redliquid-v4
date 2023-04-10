@@ -1,0 +1,6 @@
+{
+  "wanChain": {
+    "nodeUrl": "https://nodes.wandevs.org/wan",
+    "chainId": 888
+  }
+}

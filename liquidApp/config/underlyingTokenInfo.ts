@@ -1,0 +1,76 @@
+const  underlyingTokenInfo = {
+    WAN:{
+        address: "0x0000000000000000000000000000000000000000",
+        decimal:18,
+    },
+    WWAN:{
+        address: "0xdabD997aE5E4799BE47d6E69D9431615CBa28f48",
+        decimal:18,
+    },
+    USDT:{
+        address:"0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD",
+        decimal:6,
+    },
+    USDC:{
+        address:"0x52A9CEA01c4CBDd669883e41758B8eB8e8E2B34b",
+        decimal:6,
+    },
+    BTC:{
+        address:"0x50c439B6d602297252505a6799d84eA5928bCFb6",
+        decimal:8,
+    },
+    XRP:{
+        address:"0xf665E0e3E75D16466345E1129530ec28839EfaEa",
+        decimal:6,
+    },
+    ETH:{
+        address:"0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A",
+        decimal:18,
+    },
+    DOT:{
+        address:'0x52f44783BdF480e88C0eD4cF341A933CAcfDBcaa',
+        decimal:10,
+    },
+    AVAX:{
+        address:"0xB333721251961337F67bbBCAED514f9F284CE8E8",
+        decimal:18,
+    },
+    MOVR:{
+        address:"0x114FA1201F82B83c5a2FF0465b4024f01f966b91",
+        decimal:18,
+    },
+    ZOO:{
+        address:"0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+        decimal:18,
+    },
+    WASP:{
+        address:"0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a",
+        decimal:18,
+    },
+    WAND:{
+        address:"0x230f0C01b8e2c027459781E6a56dA7e1876EFDbe",
+        decimal:18,
+    },
+    LTC:{
+        address:"0xd8e7bd03920BA407D764789B11DD2B5EAeE0961e",
+        decimal:8,
+    },
+    FTM:{
+        address:"0xf8b0D176257f9DC1EE49f038bB4f6cfd51af5762",
+        decimal:18,
+    },
+    DOGE:{
+        address:"0xD3a33C6fEa7F785DdC0915f6A76919C11AbdED45",
+        decimal:8,
+    },
+    BNB:{
+        address:"0x9DE0405064BEDd88399098b4fbb2f7fA462992E0",
+        decimal:18,
+    },
+    GLMR:{
+        address:'0x3251495c721EbfF6Ca4376c97215d7013a50C3aE',
+        decimal: 18,
+    }
+}
+
+export default underlyingTokenInfo;
